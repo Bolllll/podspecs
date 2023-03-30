@@ -13,6 +13,7 @@ Pod::Spec.new do |s|
 
 
   s.description      = "some here"
+  s.swift_version    = "5.0"
 
   s.homepage         = 'https://github.com/Bolllll/xAlgoPod'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
